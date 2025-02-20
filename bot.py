@@ -115,5 +115,5 @@ class MusicBot(commands.Bot):
 
     async def start_bot(self):
         # Inicia el bot
-        TOKEN = os.getenv("DISCORD_TOKEN")
+        TOKEN = os.getenv("MTMzODY2Nzg5MzgwMTM1MzI5OQ.G8mNGI.h21lD6Rf72I9MDpYWQpGjlUZIEAFwOoimkAKzE")
         await self.start(TOKEN)
